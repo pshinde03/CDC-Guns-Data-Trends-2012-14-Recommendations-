@@ -6,3 +6,5 @@ This study is focused on analyzing the file provided to get insights on suicide 
    
 To analyse the data and write actionable recommendations for helping with suicide.  
 The data for this study can be found at the following URL: https://github.com/fivethirtyeight/guns-data/blob/master/full_data.csv
+
+# Analysis
